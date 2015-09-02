@@ -18,3 +18,4 @@ gem 'carrierwave',github:'carrierwaveuploader/carrierwave'
 gem "fog-aws"
 gem "figaro"
 gem "mini_magick"
+gem 'devise'
